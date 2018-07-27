@@ -30,7 +30,7 @@ Where:
 
 $\sigma^2 = Variance$
 
-$N = Size\ of\ Sample$
+$n = Size\ of\ Sample$
 
 $\bar{x} = Sample\ Mean$
 
